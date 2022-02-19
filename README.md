@@ -3,7 +3,7 @@ Real Time Object Detection using Tensorflow
 
 ## Results:
 
-best/epoch = 24
+best/epoch = 24;
 train/box_loss = 0.0185
 train/obj_loss = 0.0122
 
