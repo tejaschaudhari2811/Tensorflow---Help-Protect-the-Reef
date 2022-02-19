@@ -37,9 +37,7 @@ best/mAP_0.5 = 0.9776
 ![media_images_Labels_0_1](https://user-images.githubusercontent.com/88456436/154808936-1d2a3580-5381-44f9-99cd-229d82ba6f52.jpg)
 
 ### Training loss
-![train_obj_loss](https://user-images.githubusercontent.com/88456436/154809214-f0f46beb-7ddb-4c4f-acf5-a49fdf371df2.png)
-
-![train_box_loss](https://user-images.githubusercontent.com/88456436/154809211-4f207faf-4e58-4c4d-a0e8-8ca8bdee7cdc.png)
+<img src="https://user-images.githubusercontent.com/88456436/154809214-f0f46beb-7ddb-4c4f-acf5-a49fdf371df2.png" width="500" height="250"> <img src="https://user-images.githubusercontent.com/88456436/154809211-4f207faf-4e58-4c4d-a0e8-8ca8bdee7cdc.png" width="500" height="250">
 
 ### Validation loss
 ![val_obj_loss](https://user-images.githubusercontent.com/88456436/154809231-86da47c8-83db-438c-8b5a-7971b2743d88.png)
