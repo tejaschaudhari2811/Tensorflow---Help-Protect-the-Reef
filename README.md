@@ -28,9 +28,7 @@ best/mAP_0.5 = 0.9776
 <img src="https://user-images.githubusercontent.com/88456436/154808895-02f62edb-1215-4d44-88b6-ae74606af414.jpg" width="330" height="330"> <img src="https://user-images.githubusercontent.com/88456436/154808901-a0a58bf6-6d57-441a-8440-fd04088f372f.jpg" width="330" height="330"> <img src="https://user-images.githubusercontent.com/88456436/154808898-f3899d80-7228-4571-a88d-825272aa9994.jpg" width="330" height="330">
 
 ### Labels
-![media_images_Labels_0_0](https://user-images.githubusercontent.com/88456436/154808933-2e0c6c75-0cd7-4af7-98ec-162270e14254.jpg)
-
-![media_images_Labels_0_1](https://user-images.githubusercontent.com/88456436/154808936-1d2a3580-5381-44f9-99cd-229d82ba6f52.jpg)
+<img src="https://user-images.githubusercontent.com/88456436/154808933-2e0c6c75-0cd7-4af7-98ec-162270e14254.jpg" width="500" height="500"> <img src="https://user-images.githubusercontent.com/88456436/154808936-1d2a3580-5381-44f9-99cd-229d82ba6f52.jpg" width="500" height="500">
 
 ### Training loss
 <img src="https://user-images.githubusercontent.com/88456436/154809214-f0f46beb-7ddb-4c4f-acf5-a49fdf371df2.png" width="500" height="250"> <img src="https://user-images.githubusercontent.com/88456436/154809211-4f207faf-4e58-4c4d-a0e8-8ca8bdee7cdc.png" width="500" height="250">
