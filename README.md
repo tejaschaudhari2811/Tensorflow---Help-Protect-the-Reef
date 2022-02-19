@@ -4,7 +4,7 @@ Real Time Object Detection using Tensorflow
 ## Results:
 
 ### Learning rate
-![lr0](https://user-images.githubusercontent.com/88456436/154809302-08ede70c-64bd-4ca6-b2de-d28111713012.png)
+![lr0](https://user-images.githubusercontent.com/88456436/154809302-08ede70c-64bd-4ca6-b2de-d28111713012.png = 250x250)
 
 ![lr1](https://user-images.githubusercontent.com/88456436/154809303-26c93d35-fc93-43a1-ba99-5018a1a488c2.png)
 
