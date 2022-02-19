@@ -22,7 +22,7 @@ best/mAP_0.5:0.95 = 0.5709
 best/mAP_0.5 = 0.9776
 
 ### Learning rate
-<img src="https://user-images.githubusercontent.com/88456436/154809302-08ede70c-64bd-4ca6-b2de-d28111713012.png" width="340" height="170"> <img src="https://user-images.githubusercontent.com/88456436/154809303-26c93d35-fc93-43a1-ba99-5018a1a488c2.png" width="340" height="170"> <img src="https://user-images.githubusercontent.com/88456436/154809299-cca52fb3-af68-4aaf-850f-d5452d92ce6c.png" width="340" height="170">
+<img src="https://user-images.githubusercontent.com/88456436/154809302-08ede70c-64bd-4ca6-b2de-d28111713012.png" width="330" height="165"> <img src="https://user-images.githubusercontent.com/88456436/154809303-26c93d35-fc93-43a1-ba99-5018a1a488c2.png" width="330" height="165"> <img src="https://user-images.githubusercontent.com/88456436/154809299-cca52fb3-af68-4aaf-850f-d5452d92ce6c.png" width="330" height="165">
 
 ### Mosiacs
 ![media_images_Mosaics_0_0](https://user-images.githubusercontent.com/88456436/154808895-02f62edb-1215-4d44-88b6-ae74606af414.jpg)
