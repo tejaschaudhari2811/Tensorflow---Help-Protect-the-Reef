@@ -48,7 +48,7 @@ best/mAP_0.5 = 0.9776
 
 ### Validation
 Validation labels                                                                    Predictions
-<img src="(https://user-images.githubusercontent.com/88456436/154809264-00b35ca9-d42c-4cee-b186-74de4ba0932e.jpg" width="500" height="500"> <img src="https://user-images.githubusercontent.com/88456436/154809269-7d48e8ee-bb8c-4cde-af25-7f73f8428e17.jpg" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/88456436/154809264-00b35ca9-d42c-4cee-b186-74de4ba0932e.jpg" width="500" height="500"> <img src="https://user-images.githubusercontent.com/88456436/154809269-7d48e8ee-bb8c-4cde-af25-7f73f8428e17.jpg" width="500" height="500">
 
 2. Validation labels
 ![media_images_Validation_25_2](https://user-images.githubusercontent.com/88456436/154809268-f7b4cae2-1257-4b07-b3a6-6c4184cbde4b.jpg)
