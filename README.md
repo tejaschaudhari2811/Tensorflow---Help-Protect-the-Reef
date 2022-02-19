@@ -3,16 +3,22 @@ Real Time Object Detection using Tensorflow
 
 ## Results:
 
-best/epoch = 24;
+best/epoch = 24
+
 train/box_loss = 0.0185
+
 train/obj_loss = 0.0122
 
 val/box_loss = 0.0187
+
 val/obj_loss = 0.0106
 
 best/precision = 0.9460
+
 best/recall = 0.9399
+
 best/mAP_0.5:0.95 = 0.5709
+
 best/mAP_0.5 = 0.9776
 
 ### Learning rate
