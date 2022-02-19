@@ -22,7 +22,7 @@ best/mAP_0.5:0.95 = 0.5709
 best/mAP_0.5 = 0.9776
 
 ### Learning rate
-![lr0](https://user-images.githubusercontent.com/88456436/154809302-08ede70c-64bd-4ca6-b2de-d28111713012.png)
+<img src="https://user-images.githubusercontent.com/88456436/154809302-08ede70c-64bd-4ca6-b2de-d28111713012.png" width="250" height="250">
 
 ![lr1](https://user-images.githubusercontent.com/88456436/154809303-26c93d35-fc93-43a1-ba99-5018a1a488c2.png)
 
