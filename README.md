@@ -25,7 +25,7 @@ best/mAP_0.5 = 0.9776
 <img src="https://user-images.githubusercontent.com/88456436/154809302-08ede70c-64bd-4ca6-b2de-d28111713012.png" width="270" height="135"> <img src="https://user-images.githubusercontent.com/88456436/154809303-26c93d35-fc93-43a1-ba99-5018a1a488c2.png" width="270" height="135"> <img src="https://user-images.githubusercontent.com/88456436/154809299-cca52fb3-af68-4aaf-850f-d5452d92ce6c.png" width="270" height="135">
 
 ### Mosiacs
-<img src="https://user-images.githubusercontent.com/88456436/154808895-02f62edb-1215-4d44-88b6-ae74606af414.jpg" width="330" height="330"> <img src="https://user-images.githubusercontent.com/88456436/154808901-a0a58bf6-6d57-441a-8440-fd04088f372f.jpg" width="330" height="330"> <img src="https://user-images.githubusercontent.com/88456436/154808898-f3899d80-7228-4571-a88d-825272aa9994.jpg" width="330" height="330">
+<img src="https://user-images.githubusercontent.com/88456436/154808895-02f62edb-1215-4d44-88b6-ae74606af414.jpg" width="270" height="270"> <img src="https://user-images.githubusercontent.com/88456436/154808901-a0a58bf6-6d57-441a-8440-fd04088f372f.jpg" width="270" height="270"> <img src="https://user-images.githubusercontent.com/88456436/154808898-f3899d80-7228-4571-a88d-825272aa9994.jpg" width="270" height="270">
 
 ### Labels
 <img src="https://user-images.githubusercontent.com/88456436/154808933-2e0c6c75-0cd7-4af7-98ec-162270e14254.jpg" width="500" height="500"> <img src="https://user-images.githubusercontent.com/88456436/154808936-1d2a3580-5381-44f9-99cd-229d82ba6f52.jpg" width="500" height="500">
